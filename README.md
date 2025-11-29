@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @VuTrungNguyen
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Web Authentication
-- 💞️ I’m looking to collaborate on Web Project
-- 📫 How to reach me: vu.nguyen71@live.vu.edu.au
+Hi, I’m Vu Trung Nguyen.
+
+- I’m interested in web services and distributed systems  
+- My main focus areas are cloud infrastructure and home-lab projects  
 
 <!---
-VuTrungNguyen/VuTrungNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VuTrungNguyen/VuTrungNguyen is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
